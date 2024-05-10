@@ -14,7 +14,7 @@ import os
 import shutil
 
 # Directories you want to include, 包含分組倉儲中的 markdown 與學員子模組對應目錄下的 markdown 等目錄中的 .md 網誌原始檔案
-input_directories = ['41123111/markdown','41123117/markdown']
+input_directories = ['41123111/markdown','41123117/markdown','41123115/markdown','41123126/markdown']
 
 # Temporary directory to store combined Markdown files
 combined_directory = 'combined_markdown'
@@ -54,7 +54,7 @@ import os
 import shutil
 
 # Directories you want to include, 包含分組倉儲中的 markdown 與學員子模組對應目錄下的 markdown 等目錄中的 .md 網誌原始檔案
-input_directories = ['41123111/markdown','41123117/markdown']
+input_directories = ['41123111/markdown','41123117/markdown','41123115/markdown','41123126/markdown']
 
 # Temporary directory to store combined Markdown files
 combined_directory = 'combined_markdown'
