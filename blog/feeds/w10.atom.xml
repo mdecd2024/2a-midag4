@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2A-MIDAG4協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T08:55:41+08:00</updated><entry><title>week10 鋼球平台零組件繪畫</title><link href="./2024-Spring-w10-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-05-02T20:00:00+08:00</published><updated>2024-06-21T08:55:41+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-02:./2024-Spring-w10-41123117-blog-tutorial.html</id><content type="html">&lt;p&gt;鋼球平台零組件繪畫&lt;/p&gt;
-</content><category term="w10"></category><category term="鋼球平台零組件繪畫"></category></entry><entry><title>w10 鋼球平衡台零組件繪圖</title><link href="./2024-41123128-w10-blog.html" rel="alternate"></link><published>2024-04-26T14:00:00+08:00</published><updated>2024-06-21T08:55:41+08:00</updated><author><name>41123128</name></author><id>tag:None,2024-04-26:./2024-41123128-w10-blog.html</id><summary type="html">&lt;p&gt;鋼球平衡台零組件繪圖.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2A-MIDAG4協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T14:43:55+08:00</updated><entry><title>week10 鋼球平台零組件繪畫</title><link href="./2024-Spring-w10-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-05-02T20:00:00+08:00</published><updated>2024-06-21T14:43:55+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-02:./2024-Spring-w10-41123117-blog-tutorial.html</id><content type="html">&lt;p&gt;鋼球平台零組件繪畫&lt;/p&gt;
+</content><category term="w10"></category><category term="鋼球平台零組件繪畫"></category></entry><entry><title>cd2024 w10</title><link href="./41123107-w10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-06-21T14:43:55+08:00</updated><author><name>41123107</name></author><id>tag:None,2024-04-26:./41123107-w10.html</id><summary type="html">&lt;p&gt;維護分組倉儲、完成任務&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;維護分組倉儲、完成任務&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統2&lt;/h1&gt;
+&lt;p&gt;1.Replit維護分組倉儲&lt;/p&gt;
+&lt;p&gt;2.閱讀以下論文摘要&lt;/p&gt;
+&lt;p&gt;論文一：Construction and theoretical study of a ball balancing platform&lt;/p&gt;
+&lt;p&gt;探討自動控制理論在穩定動態系統時的局限性，以球體平衡平台為例。 建立球體平衡平台的理論模型，並與實際搭建的平台進行比較。 分析理論與實際結果之間的差異，探討控制理論與系統實施的挑戰。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;線性控制可以實現球體平衡平台的良好性能，但存在靜態誤差。 理論與實際結果的差異主要來自於物理模型的誤差和電子元件的非理想特性。 穩定動態系統的性能受限於狀態調整的靈活性、控制器設計和輸入數據的準確性。&lt;/p&gt;
+&lt;p&gt;論文二：A real time control system for balancing a ball on a platform with FPGA parallel implementation&lt;/p&gt;
+&lt;p&gt;提出基於 PID 控制器的解決方案，以提高球體在平台上的位置調節精度。 使用 FPGA 實現平行計算，以提高系統速度和性能。 開發球體平衡平台的轉移函數，並合成 PID 控制器。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;透過 FPGA 平行計算實現的 PID 控制器能有效提高球體位置調節精度。 該方案可應用於控制具有多個參數的高速物件。&lt;/p&gt;
+&lt;p&gt;論文三：Simulation and Experimental Study of Ball Position Control at Biaxial Platform using State Space Approach&lt;/p&gt;
+&lt;p&gt;設計和比較三種控制結構，用於自動穩定球體在平台上的位置和軌跡追踪：PD 控制器、狀態空間反饋和帶狀態空間回饋的狀態空間觀測器。 使用牛頓法推導球體平衡平台的數學模型，並設計直流電機位置迴路控制。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;三種控制結構均能實現穩定控制，但狀態空間觀測器具有最佳性能。 該研究建立了一個教育平台，用於向非技術人員解釋基本控制系統原理。&lt;/p&gt;
+&lt;p&gt;論文四：Design and Implementation a Ball Balancing System for Control Theory Course&lt;/p&gt;
+&lt;p&gt;開發一個球體平衡系統，使用微控制器和控制演算法來調節球體在梁上的平衡。 利用超聲波傳感器獲取球體位置，並使用 PID 控制演算法調整梁的角度。 開發介面程式，將即時位置曲線繪製在 MATLAB 中。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;球體平衡系統是一個低成本的教育工具，可用於教授控制理論的應用。 該系統允許學生將理論知識應用於實踐中，並了解封閉迴路回饋系統和 PID 演算法的原理。&lt;/p&gt;
+&lt;p&gt;論文五：Ball on the plate balancing control system&lt;/p&gt;
+&lt;p&gt;設計一個二自由度球體平衡實驗平台，用於測試和驗證平衡控制演算法。 使用電阻式觸摸屏獲取球體位置數據，使用步進電機和位置傳感器控制平台傾斜角度。 設計基於 AVR 微控制器的雙環下屬控制系統，使用 PID 控制器維持球體平衡。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;該系統使用步進電機替代伺服電機，並無需外部電腦進行圖像處理，具有成本效益和易於控制的優勢。 未來計劃改進球體位置回饋信號的濾波，以提高控制系統的速度和品質。&lt;/p&gt;
+&lt;p&gt;論文六：2D Ball Balancer Control using QUARC&lt;/p&gt;
+&lt;p&gt;使用 QUARC 軟體設計和實現球體在二維平台上的位置控制。 設計 PD 和 PID 控制器，並探討設定點權重和積分器抗飽和等控制技術。 使用攝像頭讀取球體位置，並進行校準和轉換。&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;PD 和 PID 控制器均能實現球體位置控制，但 PID 控制器在跟踪斜坡和正弦參考信號時具有更好的性能。 該實驗涵蓋了建模、控制器設計、模擬和實施等多個控制系統的關鍵步驟，為學生提供了寶貴的學習經驗。&lt;/p&gt;
+&lt;p&gt;接下來, 必須要設法了解, 哪一篇或哪幾篇論文對我們解決下列問題最有參考價值!&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w10 鋼球平衡台零組件繪圖</title><link href="./2024-41123128-w10-blog.html" rel="alternate"></link><published>2024-04-26T14:00:00+08:00</published><updated>2024-06-21T14:43:55+08:00</updated><author><name>41123128</name></author><id>tag:None,2024-04-26:./2024-41123128-w10-blog.html</id><summary type="html">&lt;p&gt;鋼球平衡台零組件繪圖.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;鋼球平衡台零組件繪圖.&lt;/p&gt;
 
 
@@ -264,7 +295,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="鋼球平衡台零組件繪圖"></category></entry><entry><title>2024 w10</title><link href="./2024-Spring-w10-blog-tutorial%2041123126.html" rel="alternate"></link><published>2024-04-26T13:00:00+08:00</published><updated>2024-06-21T08:55:41+08:00</updated><author><name>41123126</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial 41123126.html</id><summary type="html">&lt;p&gt;整理網誌&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="鋼球平衡台零組件繪圖"></category></entry><entry><title>2024 w10</title><link href="./2024-Spring-w10-blog-tutorial%2041123126.html" rel="alternate"></link><published>2024-04-26T13:00:00+08:00</published><updated>2024-06-21T14:43:55+08:00</updated><author><name>41123126</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial 41123126.html</id><summary type="html">&lt;p&gt;整理網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;整理網誌&lt;/p&gt;
 
 
@@ -528,4 +559,4 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>w10</title><link href="./41123111-2024-week-10-%E7%B6%B2%E8%AA%8C%F0%9F%98%81.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-06-21T08:55:41+08:00</updated><author><name>41123111</name></author><id>tag:None,2024-04-26:./41123111-2024-week-10-網誌😁.html</id><content type="html">&lt;p&gt;繪製鋼球平衡台零件&lt;/p&gt;</content><category term="w10"></category><category term="w10"></category></entry></feed>
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>w10</title><link href="./41123111-2024-week-10-%E7%B6%B2%E8%AA%8C%F0%9F%98%81.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-06-21T14:43:55+08:00</updated><author><name>41123111</name></author><id>tag:None,2024-04-26:./41123111-2024-week-10-網誌😁.html</id><content type="html">&lt;p&gt;繪製鋼球平衡台零件&lt;/p&gt;</content><category term="w10"></category><category term="w10"></category></entry></feed>
