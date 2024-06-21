@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2A-MIDAG4協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T08:06:30+08:00</updated><entry><title>w17網誌</title><link href="./41123115%20w17.html" rel="alternate"></link><published>2024-06-14T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-06-14:./41123115 w17.html</id><summary type="html">&lt;p&gt;今天用nx製作機器人,並且完成項目1
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2A-MIDAG4協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T08:26:36+08:00</updated><entry><title>w17網誌</title><link href="./41123115%20w17.html" rel="alternate"></link><published>2024-06-14T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-06-14:./41123115 w17.html</id><summary type="html">&lt;p&gt;今天用nx製作機器人,並且完成項目1
 項目二是組立件 我在機器人腳裝上輪子
 項目三是進行模擬雖然成果不如我預期但還是繼續努力&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;今天用nx製作機器人,並且完成項目1
@@ -267,7 +267,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w16網誌</title><link href="./41123115%20w16.html" rel="alternate"></link><published>2024-06-07T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-06-07:./41123115 w16.html</id><summary type="html">&lt;p&gt;今天做latex中翻英資料,使用overleaf&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w16網誌</title><link href="./41123115%20w16.html" rel="alternate"></link><published>2024-06-07T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-06-07:./41123115 w16.html</id><summary type="html">&lt;p&gt;今天做latex中翻英資料,使用overleaf&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;今天做latex中翻英資料,使用overleaf&lt;/p&gt;
 
 
@@ -531,7 +531,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w14網誌</title><link href="./41123115%20w14.html" rel="alternate"></link><published>2024-05-24T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-24:./41123115 w14.html</id><summary type="html">&lt;p&gt;用nx1872繪製鋼球平台零組件 並上傳到小組
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w14網誌</title><link href="./41123115%20w14.html" rel="alternate"></link><published>2024-05-24T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-24:./41123115 w14.html</id><summary type="html">&lt;p&gt;用nx1872繪製鋼球平台零組件 並上傳到小組
 分配到的零組件:https://nfuedu-my.sharepoint.com/personal/41123111_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123111%5Fnfu%5Fedu%5Ftw%2FDocuments%2Fw12%20%E4%BB%BB%E5%8B%99%E4%B8%80%E6%AA%94%E6%A1%88%28%2Epy%20%2Eprt%29&amp;amp;ga=1 (上蓋.prt)&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;用nx1872繪製鋼球平台零組件 並上傳到小組
 分配到的零組件:https://nfuedu-my.sharepoint.com/personal/41123111_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123111%5Fnfu%5Fedu%5Ftw%2FDocuments%2Fw12%20%E4%BB%BB%E5%8B%99%E4%B8%80%E6%AA%94%E6%A1%88%28%2Epy%20%2Eprt%29&amp;amp;ga=1 (上蓋.prt)&lt;/p&gt;
@@ -797,7 +797,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w13網誌</title><link href="./41123115%20w13.html" rel="alternate"></link><published>2024-05-17T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-17:./41123115 w13.html</id><summary type="html">&lt;p&gt;線上足球競技,與組內隊員進行對戰,其中遇到的問題是參加者雖然可以加入網站但無法動作,我的解決方法是關防火牆以及使用pip下載模組&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w13網誌</title><link href="./41123115%20w13.html" rel="alternate"></link><published>2024-05-17T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-17:./41123115 w13.html</id><summary type="html">&lt;p&gt;線上足球競技,與組內隊員進行對戰,其中遇到的問題是參加者雖然可以加入網站但無法動作,我的解決方法是關防火牆以及使用pip下載模組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;線上足球競技,與組內隊員進行對戰,其中遇到的問題是參加者雖然可以加入網站但無法動作,我的解決方法是關防火牆以及使用pip下載模組&lt;/p&gt;
 
 
@@ -1061,7 +1061,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w12網誌</title><link href="./41123115%20w12.html" rel="alternate"></link><published>2024-05-10T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-10:./41123115 w12.html</id><summary type="html">&lt;p&gt;任務2:將分組倉儲設為評分網站子模組
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w12網誌</title><link href="./41123115%20w12.html" rel="alternate"></link><published>2024-05-10T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-10:./41123115 w12.html</id><summary type="html">&lt;p&gt;任務2:將分組倉儲設為評分網站子模組
 任務3: 與創房者雙人操控足球機器人進行競技&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;任務2:將分組倉儲設為評分網站子模組
 任務3: 與創房者雙人操控足球機器人進行競技&lt;/p&gt;
@@ -1327,7 +1327,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w11網誌</title><link href="./41123115%20w11.html" rel="alternate"></link><published>2024-05-03T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-03:./41123115 w11.html</id><summary type="html">&lt;p&gt;寫這堂課所學到的心得並以組為單位上傳到老師開的網誌.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w11網誌</title><link href="./41123115%20w11.html" rel="alternate"></link><published>2024-05-03T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-05-03:./41123115 w11.html</id><summary type="html">&lt;p&gt;寫這堂課所學到的心得並以組為單位上傳到老師開的網誌.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;寫這堂課所學到的心得並以組為單位上傳到老師開的網誌.&lt;/p&gt;
 
 
@@ -1591,7 +1591,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w8網誌</title><link href="./41123115%20w8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-04-12:./41123115 w8.html</id><summary type="html">&lt;p&gt;更新子模組以及更新小組網誌的字幕影片&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w8網誌</title><link href="./41123115%20w8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-04-12:./41123115 w8.html</id><summary type="html">&lt;p&gt;更新子模組以及更新小組網誌的字幕影片&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;更新子模組以及更新小組網誌的字幕影片&lt;/p&gt;
 
 
@@ -1855,7 +1855,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w9網誌</title><link href="./41123115%20w9.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-04-12:./41123115 w9.html</id><summary type="html">&lt;p&gt;期中自評,寫下對此堂課的自評分數&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w9網誌</title><link href="./41123115%20w9.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-04-12:./41123115 w9.html</id><summary type="html">&lt;p&gt;期中自評,寫下對此堂課的自評分數&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中自評,寫下對此堂課的自評分數&lt;/p&gt;
 
 
@@ -2119,7 +2119,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w6網誌</title><link href="./41123115%20w6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-29:./41123115 w6.html</id><summary type="html">&lt;p&gt;製作影片字幕,並上傳到個人及小組網站&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w6網誌</title><link href="./41123115%20w6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-29:./41123115 w6.html</id><summary type="html">&lt;p&gt;製作影片字幕,並上傳到個人及小組網站&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;製作影片字幕,並上傳到個人及小組網站&lt;/p&gt;
 
 
@@ -2383,7 +2383,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w5網誌</title><link href="./41123115%20w5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-22:./41123115 w5.html</id><summary type="html">&lt;p&gt;整合影片到小組&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w5網誌</title><link href="./41123115%20w5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-22:./41123115 w5.html</id><summary type="html">&lt;p&gt;整合影片到小組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;整合影片到小組&lt;/p&gt;
 
 
@@ -2647,8 +2647,8 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>week4 影片上字幕</title><link href="./2024-Spring-w4-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T20:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-21:./2024-Spring-w4-41123117-blog-tutorial.html</id><content type="html">&lt;p&gt;影片檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/Eu8vQIGG4M1DuGz1Jw9wwDsBN2SRVHUzLLsE-Ed1CffYpg&lt;/p&gt;
-</content><category term="w4"></category><category term="影片上字幕"></category></entry><entry><title>w4網誌</title><link href="./41123115%20w4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-15:./41123115 w4.html</id><summary type="html">&lt;p&gt;上影片字幕
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>week4 影片上字幕</title><link href="./2024-Spring-w4-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T20:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-21:./2024-Spring-w4-41123117-blog-tutorial.html</id><content type="html">&lt;p&gt;影片檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/Eu8vQIGG4M1DuGz1Jw9wwDsBN2SRVHUzLLsE-Ed1CffYpg&lt;/p&gt;
+</content><category term="w4"></category><category term="影片上字幕"></category></entry><entry><title>w4網誌</title><link href="./41123115%20w4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-15:./41123115 w4.html</id><summary type="html">&lt;p&gt;上影片字幕
 https://nfuedu-my.sharepoint.com/personal/41123115_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123115%5Fnfu%5Fedu%5Ftw%2FDocuments%2F%E5%AD%97%E5%B9%95&amp;amp;ga=1&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;上影片字幕
 https://nfuedu-my.sharepoint.com/personal/41123115_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123115%5Fnfu%5Fedu%5Ftw%2FDocuments%2F%E5%AD%97%E5%B9%95&amp;amp;ga=1&lt;/p&gt;
@@ -2914,7 +2914,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w4 完成課堂作業 幫影片上字幕</title><link href="./2024-41123128-w4-blog.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123128</name></author><id>tag:None,2024-03-15:./2024-41123128-w4-blog.html</id><summary type="html">&lt;p&gt;影片連結
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w4 完成課堂作業 幫影片上字幕</title><link href="./2024-41123128-w4-blog.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123128</name></author><id>tag:None,2024-03-15:./2024-41123128-w4-blog.html</id><summary type="html">&lt;p&gt;影片連結
 https://nfuedu-my.sharepoint.com/:f:/g/personal/41123128_nfu_edu_tw/Ep7IgNHYIiJCmkJ3P3MOi0ABLppjRJIhb8v1Ztrx_Yez2g&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;影片連結
 https://nfuedu-my.sharepoint.com/:f:/g/personal/41123128_nfu_edu_tw/Ep7IgNHYIiJCmkJ3P3MOi0ABLppjRJIhb8v1Ztrx_Yez2g&lt;/p&gt;
@@ -3180,9 +3180,9 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="w4 work，影片上字幕"></category></entry><entry><title>影片上字幕</title><link href="./41123111-2024-week-4-%E7%B6%B2%E8%AA%8C%F0%9F%98%81.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123111</name></author><id>tag:None,2024-03-15:./41123111-2024-week-4-網誌😁.html</id><content type="html">&lt;p&gt;影片上字幕
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="w4 work，影片上字幕"></category></entry><entry><title>影片上字幕</title><link href="./41123111-2024-week-4-%E7%B6%B2%E8%AA%8C%F0%9F%98%81.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123111</name></author><id>tag:None,2024-03-15:./41123111-2024-week-4-網誌😁.html</id><content type="html">&lt;p&gt;影片上字幕
 &lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/41123111_nfu_edu_tw/EpsWlHkjvoxGlOaX32cYnCsBGkdwgqy0a8rl0cowQUObOw?e=ec2ggC"&gt;https://nfuedu-my.sharepoint.com/:b:/g/personal/41123111_nfu_edu_tw/Eb_yMyzqH75HsRy47Vtr3JwBc4xnRzH5gMEKOHope7Gk-g?e=3b31tI&lt;/a&gt;&lt;/p&gt;
-</content><category term="w4"></category><category term="上字幕"></category></entry><entry><title>w3網誌</title><link href="./41123115%20w3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-08:./41123115 w3.html</id><summary type="html">&lt;p&gt;加入小組子模組,中英文並列資料&lt;/p&gt;
+</content><category term="w4"></category><category term="上字幕"></category></entry><entry><title>w3網誌</title><link href="./41123115%20w3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-08:./41123115 w3.html</id><summary type="html">&lt;p&gt;加入小組子模組,中英文並列資料&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;加入小組子模組,中英文並列資料&lt;/p&gt;
 
 
@@ -3446,7 +3446,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w2網誌</title><link href="./41123115%20w2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-01:./41123115 w2.html</id><summary type="html">&lt;p&gt;加入小組(第四組)&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>w2網誌</title><link href="./41123115%20w2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123115</name></author><id>tag:None,2024-03-01:./41123115 w2.html</id><summary type="html">&lt;p&gt;加入小組(第四組)&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;加入小組(第四組)&lt;/p&gt;
 
 
@@ -3710,7 +3710,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 w4</title><link href="./2024-Spring-w4-blog-tutorial%2041123126.html" rel="alternate"></link><published>2024-02-23T13:00:00+08:00</published><updated>2024-06-21T08:06:30+08:00</updated><author><name>41123126</name></author><id>tag:None,2024-02-23:./2024-Spring-w4-blog-tutorial 41123126.html</id><summary type="html">&lt;p&gt;上字幕
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 w4</title><link href="./2024-Spring-w4-blog-tutorial%2041123126.html" rel="alternate"></link><published>2024-02-23T13:00:00+08:00</published><updated>2024-06-21T08:26:36+08:00</updated><author><name>41123126</name></author><id>tag:None,2024-02-23:./2024-Spring-w4-blog-tutorial 41123126.html</id><summary type="html">&lt;p&gt;上字幕
 https://nfuedu-my.sharepoint.com/:f:/g/personal/41123126_nfu_edu_tw/EljFLaCM8nhHjCTspCFS5NkBpXOD6iZn_NjNOrFsvgeIkw?e=q6xokk&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;上字幕
 https://nfuedu-my.sharepoint.com/:f:/g/personal/41123126_nfu_edu_tw/EljFLaCM8nhHjCTspCFS5NkBpXOD6iZn_NjNOrFsvgeIkw?e=q6xokk&lt;/p&gt;
